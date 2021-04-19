@@ -6,3 +6,6 @@ texture being inspected. This method is based on the Phase Only Transform (PHOT)
 
 ## difference
 Original paper used Mahalanobis distance to judge the area of defect, I just judge each pixel.
+
+## Original paper result
+![Original paper result](https://github.com/One1h/PHOT/blob/main/original.PNG)
